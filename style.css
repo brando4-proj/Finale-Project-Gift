@@ -31,7 +31,7 @@
             width: 580px;
             display: flex;
             flex-direction: center;
-            
+            background: #ffffff;
         }
         
         #Receive{
