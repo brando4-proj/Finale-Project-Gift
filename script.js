@@ -203,6 +203,7 @@ const Element = document.getElementById("happy");
            audioElement.style.width = "100%";
            button.className = "Receive";
            button.id = "Received";
+                note.style.fontSize = "30px";
             
          
            
